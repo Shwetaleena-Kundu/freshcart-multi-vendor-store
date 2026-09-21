@@ -6,7 +6,7 @@ Users can add products from different stores to one cart, update product quantit
 
 ## Live Demo
 
-- **Live Website:** [View FreshCart](YOUR_VERCEL_URL)
+- **Live Website:** [View FreshCart](https://freshcart-multi-vendor-store.vercel.app/)
 - **GitHub Repository:** [View Source Code](https://github.com/Shwetaleena-Kundu/freshcart-multi-vendor-store)
 
 ## Features
